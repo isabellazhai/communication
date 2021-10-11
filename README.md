@@ -13,6 +13,9 @@ Brief intro of this project
 Packages
 =======
 Pandas
+
 Numpy
+
 matplotlib
+
 Statsmodels
