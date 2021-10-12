@@ -25,6 +25,15 @@ Group Members
 [Yangzhou Tang](https://github.com/yangzhoutang)
 
 [Isabella Zhai](https://github.com/isabellazhai)
+Hypothesis Test for Regression Slope
+
+The test focuses on the slope of the regression line
+
+Y = Β0 + Β1X
+
+where Β0 is a constant, Β1 is the slope (also called the regression coefficient), X is the value of the independent variable, and Y is the value of the dependent variable.
+
+If we find that the slope of the regression line is significantly different from zero, we will conclude that there is a significant relationship between the independent and dependent variables.
 
 [Monty Xu](https://github.com/montyhsu)
 
