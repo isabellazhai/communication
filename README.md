@@ -7,7 +7,7 @@ This presentation will focus on the idea of regression and how to perform linear
 
 **Code Reference:** [Link](https://github.com/summerzhang423/communication/blob/main/communication_code.ipynb)
 
-**Presentation Slides:** [Link](https://github.com/summerzhang423/communication/blob/main/Communication%20Final.pptx) 
+**Presentation Slides:** [Link](https://github.com/summerzhang423/communication/blob/main/Communication%20Final.pdf) 
 
 
 Packages
