@@ -24,6 +24,9 @@ Statsmodels
 Group Members
 =======
 [Yangzhou Tang](https://github.com/yangzhoutang)
+
 [Isabella Zhai](https://github.com/isabellazhai)
+
 [Monty Xu](https://github.com/montyhsu)
+
 [Summer Zhang](https://github.com/summerzhang423)
