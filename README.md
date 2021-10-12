@@ -12,10 +12,18 @@ This presentation will focus on the idea of regression and how to perform linear
 
 Packages
 =======
-Pandas. test
+Pandas
 
 Numpy
 
 matplotlib
 
 Statsmodels
+
+
+Group Members
+=======
+[Yangzhou Tang](https://github.com/yangzhoutang)
+[Isabella Zhai](https://github.com/isabellazhai)
+[Monty Xu](https://github.com/montyhsu)
+[Summer Zhang](https://github.com/summerzhang423)
