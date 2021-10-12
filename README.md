@@ -12,13 +12,11 @@ This presentation will focus on the idea of regression and how to perform linear
 
 Packages
 =======
-Pandas
+[Pandas](https://pandas.pydata.org/about/)
 
-Numpy
+[Numpy](https://numpy.org/doc/stable/user/whatisnumpy.html)
 
-matplotlib
-
-Statsmodels
+[Statsmodels](https://www.statsmodels.org/stable/index.html)
 
 
 Group Members
