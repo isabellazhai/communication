@@ -26,6 +26,12 @@ Group Members
 
 [Isabella Zhai](https://github.com/isabellazhai)
 
+The test focuses on the slope of the regression line Y = Β0 + Β1X, where Β0 is a constant, Β1 is the slope (also called the regression coefficient), X is the value of the independent variable, and Y is the value of the dependent variable.
+
+If we find that the slope of the regression line is significantly different from zero, we will conclude that there is a significant relationship between the independent and dependent variables.
+
+The test procedure consists of four steps: (1) state the hypotheses, (2) formulate an analysis plan, (3) analyze sample data, and (4) interpret results.
+
 [Monty Xu](https://github.com/montyhsu)
 
 [Summer Zhang](https://github.com/summerzhang423)
