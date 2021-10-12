@@ -12,7 +12,7 @@ This presentation will focus on the idea of regression and how to perform linear
 
 Packages
 =======
-Pandas
+Pandas. test
 
 Numpy
 
