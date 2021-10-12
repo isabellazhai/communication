@@ -32,6 +32,26 @@ If we find that the slope of the regression line is significantly different from
 
 The test procedure consists of four steps: (1) state the hypotheses, (2) formulate an analysis plan, (3) analyze sample data, and (4) interpret results.
 
+1) 
+If there is a significant linear relationship between the independent variable X and the dependent variable Y, the slope will not equal zero.
+Ho: Β1 = 0
+Ha: Β1 ≠ 0
+
+2) 
+Significance level: Often, we choose significance levels equal to 0.01, 0.05, or 0.10; but any value between 0 and 1 can be used.
+Test method: Use a linear regression t-test to determine whether the slope of the regression line differs significantly from zero.
+
+3)
+In this step, we either calculate the test statistics and the p-value by hand, or we can seek help from programming tools.
+
+4)
+In the last part, we interpret the test results, compare the p-value with the chosen signficance level, and decide which predictors are significant to our model.
+
+
+![alt text](https://www.facebook.com/photo/?fbid=2629070530571871&set=a.1081858695293070)
+
+The statsmodels package provides a nice summary table of the test results. Here, we can check the p-value of each predictors we are interested in and see how the response variable is changing with every unit change of a specific predictor. 
+
 [Monty Xu](https://github.com/montyhsu)
 
 [Summer Zhang](https://github.com/summerzhang423)
