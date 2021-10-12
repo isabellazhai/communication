@@ -13,11 +13,10 @@ This presentation will focus on the idea of regression and how to perform linear
 Packages
 =======
 [Pandas](https://pandas.pydata.org/about/)
-
-[Numpy](https://numpy.org/doc/stable/user/whatisnumpy.html)
+We will use Pandas package and its key data structure which is called the DataFrame to read data.
 
 [Statsmodels](https://www.statsmodels.org/stable/index.html)
-
+We will use Python’s statsmodels module to implement Ordinary Least Squares(OLS) method of linear regression and perform statistical tests.
 
 Group Members
 =======
